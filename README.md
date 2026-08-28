@@ -2,7 +2,9 @@
 
 This public repository hosts the privacy policy for the Android application **Forex AI Signals** (`com.app.forexaisignals`).
 
-The published GitHub Pages URL is intended for the Google Play Console privacy-policy field and for an in-app privacy link.
+The public rendered policy URL is intended for the Google Play Console privacy-policy field and for an in-app privacy link:
+
+https://github.com/Ildar83/forex-ai-signals-privacy/blob/main/PRIVACY_POLICY.md
 
 ## Source Documents
 
